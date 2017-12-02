@@ -6,8 +6,8 @@
 // @match        *://*.bilibili.com/*
 // @grant        none
 // @run-at       @run-at document-idle
-// @updateURL https://github.com/KleeU/userscript/raw/master/danmu/123.js
-// @downloadURL https://github.com/KleeU/userscript/raw/master/danmu/123.js
+// @updateURL https://github.com/KleeU/userscript/raw/master/danmu/123.user.js
+// @downloadURL https://github.com/KleeU/userscript/raw/master/danmu/123.user.js
 
 // ==/UserScript==
 
