@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         auto close bullet screen 
 // @version      1.0
-// @description  233333
+// @description  2333
 // @author       Klee
 // @match        *://*.bilibili.com/*
 // @grant        none
 // @run-at       @run-at document-idle
-// @updateURL https://github.com/KleeU/userscript/raw/master/danmu/AutoClose.user.js
-// @downloadURL https://github.com/KleeU/userscript/raw/master/danmu/AutoClose.user.js
-// 
+// @updateURL    https://github.com/KleeU/userscript/raw/master/danmu/AutoClose.user.js
+// @downloadURL  https://github.com/KleeU/userscript/raw/master/danmu/AutoClose.user.js
 // ==/UserScript==
 
 
